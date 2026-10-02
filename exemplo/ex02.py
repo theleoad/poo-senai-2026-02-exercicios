@@ -1,10 +1,7 @@
-# EXEMPLO (não vale nota): um exercício entregue, para você ver o formato.
+# EXEMPLO (não vale nota): como fica um exercício entregue.
 #
-# Enunciado: crie a função dobro(n), que DEVOLVE (return) o dobro de n.
-#
-# No fim, rode e cole a saída do terminal embaixo da linha # SAÍDA:, cada linha
-# começando com #, MESMO QUE SEJA UM ERRO. Depois salve e envie pelo site do GitHub.
-# Conta como entregue: arquivo alterado (uma tentativa de verdade) + saída colada.
+# Crie a função dobro(n), que DEVOLVE (return) o dobro de n.
+
 
 def dobro(n):
     return n * 2
@@ -13,10 +10,16 @@ def dobro(n):
 print(dobro(4))
 print(dobro("10" + 1))
 
+# ============================================================
+# PARA ENTREGAR
+# 1. Rode e cole embaixo de SAÍDA tudo o que apareceu no terminal,
+#    com # na frente de cada linha. Mesmo que seja um erro.
+# 2. Envie este arquivo para a pasta aula-01. O nome tem que ser ex02.py.
+# ============================================================
 # SAÍDA:
 # 8
 # Traceback (most recent call last):
-#   File "C:\Users\aluno\poo-senai-2026-02-exercicios\exemplo\ex02.py", line 14, in <module>
+#   File "C:\Users\aluno\poo-senai-2026-02-exercicios\aula-01\ex02.py", line 11, in <module>
 #     print(dobro("10" + 1))
 #                 ~~~~~^~~
 # TypeError: can only concatenate str (not "int") to str

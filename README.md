@@ -13,11 +13,16 @@ Cronograma e slides: https://poo.leoad.com.br/
 
 ## Como entregar um exercício
 
+> [!IMPORTANT]
+> **O nome do arquivo tem que ser exatamente `ex01.py`, `ex02.py`, `ex03.py`...**
+> Nada de `ex01 (1).py`, `Ex01.py` ou `ex01-final.py`. Se o navegador salvar o arquivo com outro nome, renomeie antes de enviar. Com outro nome, o exercício não é encontrado.
+
+
 1. Baixe o arquivo pelo link no slide do exercício e salve na pasta da aula, no seu computador.
 2. Abra no VS Code, faça o exercício e rode com ▶.
 3. Cole a saída do terminal no fim do arquivo, embaixo da linha `# SAÍDA:`, com `#` na frente de cada linha. **Mesmo que a saída seja um erro.** Salve com Ctrl + S.
 4. Aqui no GitHub, entre na pasta da aula, clique em **Add file** → **Upload files** e arraste o arquivo.
-5. No campo da mensagem, escreva o nome do exercício (por exemplo, `ex01`) e clique em **Commit changes**.
+5. Clique em **Commit changes**. Não precisa escrever nada.
 
 Consertou depois? Envie de novo, na mesma pasta: o arquivo novo substitui o antigo.
 
