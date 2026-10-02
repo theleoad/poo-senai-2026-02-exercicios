@@ -37,7 +37,7 @@ A nota mede o seu esforço, não o acerto.
 | Casa obrigatórios (`ex04` e `ex05`) | 48 horas depois do fim da aula (dia e hora no slide de cada aula) |
 | Casa opcionais (`ex06`, `ex07`) e desafio (`ex08`) | não valem nota; entregue quando quiser |
 
-Atrasou? Vale **70%** até o dia da próxima VA: até **06/11** para as aulas até a 1ª VA, e até **11/12** para as seguintes. Depois disso, não conta.
+Atrasou? Vale **70%**: até **12/11** para os exercícios das aulas 01 a 10, e até **11/12** para os exercícios a partir da aula 12. Depois disso, não conta.
 
 ## As soluções
 
