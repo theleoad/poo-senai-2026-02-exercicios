@@ -21,6 +21,8 @@ Cronograma e slides: https://poo.leoad.com.br/
 
 Consertou depois? Envie de novo, na mesma pasta: o arquivo novo substitui o antigo.
 
+Veja a pasta [`exemplo/`](exemplo/) para saber como fica um arquivo entregue.
+
 ## O que conta como entregue
 
 O arquivo foi **alterado** em relação ao inicial (uma tentativa de verdade) **e** tem a **saída do terminal colada** no fim, depois de `# SAÍDA:`, mesmo que seja um erro. Arquivo igual ao inicial, ou sem a saída colada, não conta.
@@ -39,4 +41,4 @@ Atrasou? Vale **70%** até o dia da próxima VA: até **06/11** para as aulas at
 
 ## As soluções
 
-Os exercícios de sala têm um cadeado no slide com a solução. A chave é o que aparece depois de `chave:` na última linha do programa. Serve para você conferir sozinho; não vale nota. Os de casa não têm solução publicada: traga as dúvidas para a aula seguinte.
+Os exercícios de sala têm a solução num cadeado, no slide do exercício. Ele serve para você conferir sozinho e não vale nota. Os de casa não têm solução publicada: traga as dúvidas para a aula seguinte.
