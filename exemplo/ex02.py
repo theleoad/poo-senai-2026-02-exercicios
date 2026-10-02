@@ -16,7 +16,7 @@ print(dobro("10" + 1))
 # SAÍDA:
 # 8
 # Traceback (most recent call last):
-#   File "C:\Users\aluno\poo-senai-2026-02-exercicios\exemplo\saida-com-erro\ex00_dobro.py", line 14, in <module>
+#   File "C:\Users\aluno\poo-senai-2026-02-exercicios\exemplo\ex02.py", line 14, in <module>
 #     print(dobro("10" + 1))
 #                 ~~~~~^~~
 # TypeError: can only concatenate str (not "int") to str
