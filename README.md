@@ -2,7 +2,7 @@
 
 SENAI Goiás · Análise e Desenvolvimento de Sistemas · 2026/02
 
-Este é o seu repositório de exercícios do semestre. Cada aula tem a sua pasta (`aula-01`, `aula-02`...), e cada exercício é um arquivo dentro da pasta da aula.
+Este é o seu repositório de exercícios do semestre. As aulas com exercícios têm a sua pasta (`aula-01`, `aula-02`...), e cada exercício é um arquivo dentro da pasta da aula. Os dois projetos vão nas pastas `projeto-1` e `projeto-2`.
 
 Cronograma e slides: https://poo.leoad.com.br/
 
