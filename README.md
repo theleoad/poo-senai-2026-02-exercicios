@@ -8,7 +8,7 @@ Cronograma e slides: https://poo.leoad.com.br/
 
 ## Antes de tudo
 
-1. O repositório precisa ser **Private**.
+1. Crie o seu com **Use this template**, com o nome `poo-senai-2026-02-exercicios`, e marque **Private**.
 2. Adicione o professor como colaborador: **Settings** → **Collaborators** → **Add people** → `theleoad`. Sem isso, eu não vejo as suas entregas.
 
 ## Como entregar um exercício
